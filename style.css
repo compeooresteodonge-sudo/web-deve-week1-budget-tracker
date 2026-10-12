@@ -1,0 +1,60 @@
+/* Element selector */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 20px;
+}
+
+/* ID selector */
+#main-header {
+    background-color: #1d3557;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* Style the main heading */
+h1 {
+    font-size: 32px;
+}
+
+/* Class selector */
+.expense-form {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+/* Style input fields */
+input {
+    display: block;
+    width: 95%;
+    padding: 10px;
+    margin-top: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Style section headings */
+h2 {
+    color: #1d3557;
+}
+
+/* Class selector */
+.expenses-list {
+    background-color: #e8f5e9;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #b7dfb9;
+}
+
+/* ID selector practice */
+#expense-name {
+    background-color: #fffdf0;
+}
